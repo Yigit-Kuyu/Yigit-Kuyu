@@ -1,4 +1,4 @@
-I am 8-year bacground research developer at [KARSAN Automotive](https://www.karsan.com/en), where I specialize on planning/control algorithms for AVs and  optimization of challenging problems.
+I am an 8-year research developer at [KARSAN Automotive](https://www.karsan.com/en), specializing in planning-control algorithms for AVs and optimization of challenging problems.
 
 - 🌐 Visit my [Scholar page](https://scholar.google.com/citations?user=GkOZc58AAAAJ&hl=tr&oi=ao) for more information.
 - ✍️ Follow me on [Linkedin](https://www.linkedin.com/in/yigit-kuyu/) to get in touch.
