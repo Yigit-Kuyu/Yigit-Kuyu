@@ -32,4 +32,7 @@ I am an 8-year research developer at [KARSAN Automotive](https://www.karsan.com/
   <a href="https://github.com/features/actions" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
   </a>
+   <a href="https://www.overleaf.com" target="_blank">
+    <img src="https://img.shields.io/badge/latex-%232671E5.svg?style=flat-square&logo=Latex&logoColor=white" alt="Latex">
+  </a>
 </p>
