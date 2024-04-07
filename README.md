@@ -5,11 +5,16 @@ I have an 8-year background in research development, and am currently employed a
 
 ![](https://komarev.com/ghpvc/?username=Yigit-Kuyu)
 
+
+
+
+
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yigit-Kuyu&show_icons=true&theme=bear" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Yigit-Kuyu&theme=dark&hide_border=true" width="400">
+  <a href="https://github.com/Yigit-Kuyu"><img alt="Yigit's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yigit-Kuyu&theme=radical" height="250px"/></a>
 </p>
 
 ---
