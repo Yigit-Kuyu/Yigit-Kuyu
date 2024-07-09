@@ -1,4 +1,4 @@
-I have an 8-year background in research development, and am currently employed at [KARSAN Automotive](https://www.karsan.com/en/autonomous-e-atak-highlights), specializing in AV framework and optimization of challenging problems.
+I have an 8-year background in research development and am currently employed at [KARSAN Automotive](https://www.karsan.com/en/autonomous-e-atak-highlights), specializing in RL, LLM, Robotics, and optimization of challenging problems.
 
 - 🌐 Visit my [Scholar page](https://scholar.google.com/citations?user=GkOZc58AAAAJ&hl=tr&oi=ao) for more information.
 - ✍️ Follow me on [Linkedin](https://www.linkedin.com/in/yigit-kuyu/) to get in touch.
